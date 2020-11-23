@@ -1,0 +1,9 @@
+export const paper_color = "#363b4e";
+export const btn_color = "#e94560";
+export const btn_hover = "#586ba4";
+export const hr_row = "##c4bbf0";
+export const white = "#fff";
+export const done_hover = "#4ecca3";
+export const del_hover = "#e94560";
+export const nav_color = "#363b4e";
+export const bg_color = "6b778d";
